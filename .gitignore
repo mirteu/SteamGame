@@ -84,3 +84,5 @@ SteamGame/Content/Geometry/
 SteamGame/Content/Mannequin/
 SteamGame/Content/ThirdPerson/
 SteamGame/Content/ThirdPersonBP/
+SteamGame/Binaries/
+SteamGame/Build/
